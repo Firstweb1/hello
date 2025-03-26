@@ -1,0 +1,51 @@
+body {
+  background-color: #151534;
+}
+img {
+  border: 5px solid yellow;
+}
+h1,
+p {
+  text-align: center;
+}
+p {
+  color: white;
+}
+h1 {
+  color: yellow;
+}
+th,
+td {
+  border: 2px solid yellow;
+}
+table {
+  border-collapse: collapse;
+  margin: auto;
+  color: white;
+  width: 90%;
+  margin: 10px;
+}
+label {
+  text-align: center;
+  color: white;
+  margin: 10px;
+}
+input {
+  background-color: #ffffff;
+  color: white;
+  border: 2px solid yellow;
+  width: 90%;
+  margin: 10px;
+}
+button {
+  margin: 10px;
+  text-align: center;
+  width: 30%;
+  background-color: yellow;
+  color: black;
+  border: 2px solid yellow;
+  border-radius: 10px;
+}
+div {
+  text-align: center;
+}
